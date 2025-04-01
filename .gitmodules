@@ -1,3 +1,6 @@
 [submodule "bicDetectionSF"]
 	path = bicDetectionSF
 	url = https://github.com/mnadims/bicDetectionSF.git
+[submodule "dwexpCodes"]
+	path = dwexpCodes
+	url = https://github.com/mnadims/dwexpCodes.git
