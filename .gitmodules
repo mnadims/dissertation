@@ -1,0 +1,3 @@
+[submodule "bicDetectionSF"]
+	path = bicDetectionSF
+	url = https://github.com/mnadims/bicDetectionSF.git
