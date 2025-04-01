@@ -1,2 +1,2 @@
-# Research projects for my PhD Dissertation.
-## There are scripts to generate the datasets which are not directly included in the repository for handling larger size of disk space requirements. 
+# PhD Dissertation Research Projects (Organizing and Expanding)
+## There are scripts to generate datasets that are not directly included in the repository, handling larger disk space requirements. 
