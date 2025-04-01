@@ -7,3 +7,6 @@
 [submodule "pubDemo"]
 	path = pubDemo
 	url = https://github.com/mnadims/pubDemo.git
+[submodule "VisualizationJournal"]
+	path = VisualizationJournal
+	url = https://github.com/mnadims/VisualizationJournal.git
