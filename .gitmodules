@@ -4,3 +4,6 @@
 [submodule "dwexpCodes"]
 	path = dwexpCodes
 	url = https://github.com/mnadims/dwexpCodes.git
+[submodule "pubDemo"]
+	path = pubDemo
+	url = https://github.com/mnadims/pubDemo.git
