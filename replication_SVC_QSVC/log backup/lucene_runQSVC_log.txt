@@ -1,0 +1,4 @@
+chunk: 0-348
+chunk: 0-348
+886.491 
+lucene chunk: 0-348

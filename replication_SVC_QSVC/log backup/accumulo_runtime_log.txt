@@ -1,0 +1,2 @@
+file: accumulo, dataset chunk: 0-284, training time: 471.93 seconds
+file: accumulo, dataset chunk: 0-284, training time: 474.25 seconds

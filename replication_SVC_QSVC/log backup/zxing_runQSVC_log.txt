@@ -1,0 +1,2 @@
+zxing chunk: 0-500
+chunk: 500-508

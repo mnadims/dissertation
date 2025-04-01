@@ -1,0 +1,1 @@
+file: ambari, dataset chunk: 0-410, training time: 833.95 seconds

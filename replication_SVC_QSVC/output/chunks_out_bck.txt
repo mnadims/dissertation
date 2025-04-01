@@ -1,0 +1,23 @@
+
+dataset: anysoftkeyboard number of instance: 0_500
+number of training sample: 500
+actual- buggy: 271 non-buggy: 229
+---------------------------------
+
+classification model: qsvc
+
+chunk size: 0_500
+predicted- buggy: 238 non-buggy: 262
+correct- total: 325 (65.00%), buggy: 167 (61.62%) non-buggy: 158 (69.00%)
+performance: 0.7, 0.62, 0.66
+execution time: 1555.34 seconds
+
+Saving the model: saved_chunk_models/anysoftkeyboard_qsvc_0_500
+[[158  71]
+ [104 167]]
+(0.7016806722689075, 0.6162361623616236, 0.656188605108055, None)
+execution time: 1555.34 seconds
+number of training sample: 500
+
+
+--------------###----------------

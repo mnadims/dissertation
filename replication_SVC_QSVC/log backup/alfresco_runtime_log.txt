@@ -1,0 +1,1 @@
+file: alfresco, dataset chunk: 0-500, training time: 541.49 seconds

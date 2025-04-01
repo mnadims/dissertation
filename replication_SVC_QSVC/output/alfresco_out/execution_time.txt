@@ -1,0 +1,13 @@
+execution time for 0: 644.65 seconds
+execution time for 1: 527.09 seconds
+execution time for 2: 530.67 seconds
+execution time for 3: 529.57 seconds
+execution time for 4: 530.8 seconds
+execution time for 5: 529.46 seconds
+execution time for 6: 527.6 seconds
+execution time for 7: 527.92 seconds
+execution time for 8: 523.73 seconds
+execution time for 9: 526.67 seconds
+execution time for 10: 524.22 seconds
+execution time for 11: 554.0 seconds
+execution time for 12: 551.36 seconds

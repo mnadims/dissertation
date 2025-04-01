@@ -1,0 +1,1 @@
+file: qt, dataset chunk: 0-472, training time: 1240.16 seconds

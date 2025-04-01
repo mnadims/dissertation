@@ -1,0 +1,1 @@
+file: jenkins, dataset chunk: 0-444, training time: 1417.73 seconds

@@ -1,0 +1,2 @@
+file: pageturner, dataset chunk: 0-500, training time: 533.52 seconds
+file: pageturner, dataset chunk: 0-500, training time: 519.74 seconds

@@ -1,0 +1,5 @@
+chunk: 0-284
+chunk: 0-284
+474.794 
+accumulo chunk: 0-284
+accumulo chunk: 0-284

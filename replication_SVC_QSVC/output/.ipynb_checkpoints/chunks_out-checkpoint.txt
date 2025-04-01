@@ -1,0 +1,211 @@
+
+dataset: anysoftkeyboard number of instance: 0_500
+number of training sample: 500
+actual- buggy: 271 non-buggy: 229
+---------------------------------
+
+classification model: qsvc
+
+chunk size: 0_500
+predicted- buggy: 238 non-buggy: 262
+correct- total: 325 (65.00%), buggy: 167 (61.62%) non-buggy: 158 (69.00%)
+performance: 0.7, 0.62, 0.66
+execution time: 1555.34 seconds
+
+
+--------------###----------------
+dataset: anysoftkeyboard number of instance: 0_500
+number of training sample: 500
+actual- buggy: 881 non-buggy: 840
+---------------------------------
+
+classification model: qsvc
+
+chunk size: 0_500
+predicted- buggy: 841 non-buggy: 880
+correct- total: 1097 (63.74%), buggy: 549 (62.32%) non-buggy: 548 (65.24%)
+performance: 0.65, 0.62, 0.64
+execution time: 11754.86 seconds
+
+
+--------------###----------------
+dataset: anysoftkeyboard number of instance: 500_1000
+number of training sample: 500
+actual- buggy: 881 non-buggy: 840
+---------------------------------
+
+classification model: qsvc
+
+chunk size: 500_1000
+predicted- buggy: 790 non-buggy: 931
+correct- total: 1118 (64.96%), buggy: 534 (60.61%) non-buggy: 584 (69.52%)
+performance: 0.68, 0.61, 0.64
+execution time: 9946.27 seconds
+
+
+--------------###----------------
+dataset: anysoftkeyboard number of instance: 1000_1500
+number of training sample: 500
+actual- buggy: 881 non-buggy: 840
+---------------------------------
+
+classification model: qsvc
+
+chunk size: 1000_1500
+predicted- buggy: 1024 non-buggy: 697
+correct- total: 1082 (62.87%), buggy: 633 (71.85%) non-buggy: 449 (53.45%)
+performance: 0.62, 0.72, 0.66
+execution time: 9864.33 seconds
+
+
+--------------###----------------
+dataset: anysoftkeyboard number of instance: 1500_2000
+number of training sample: 500
+actual- buggy: 881 non-buggy: 840
+---------------------------------
+
+classification model: qsvc
+
+chunk size: 1500_2000
+predicted- buggy: 895 non-buggy: 826
+correct- total: 1063 (61.77%), buggy: 559 (63.45%) non-buggy: 504 (60.00%)
+performance: 0.62, 0.63, 0.63
+execution time: 10215.6 seconds
+
+
+--------------###----------------
+dataset: anysoftkeyboard number of instance: 2000_2500
+number of training sample: 500
+actual- buggy: 881 non-buggy: 840
+---------------------------------
+
+classification model: qsvc
+
+chunk size: 2000_2500
+predicted- buggy: 744 non-buggy: 977
+correct- total: 1150 (66.82%), buggy: 527 (59.82%) non-buggy: 623 (74.17%)
+performance: 0.71, 0.6, 0.65
+execution time: 10178.11 seconds
+
+
+--------------###----------------
+dataset: anysoftkeyboard number of instance: 2500_3000
+number of training sample: 500
+actual- buggy: 881 non-buggy: 840
+---------------------------------
+
+classification model: qsvc
+
+chunk size: 2500_3000
+predicted- buggy: 948 non-buggy: 773
+correct- total: 1120 (65.08%), buggy: 614 (69.69%) non-buggy: 506 (60.24%)
+performance: 0.65, 0.7, 0.67
+execution time: 9918.8 seconds
+
+
+--------------###----------------
+dataset: anysoftkeyboard number of instance: 3000_3500
+number of training sample: 500
+actual- buggy: 881 non-buggy: 840
+---------------------------------
+
+classification model: qsvc
+
+chunk size: 3000_3500
+predicted- buggy: 775 non-buggy: 946
+correct- total: 1083 (62.93%), buggy: 509 (57.78%) non-buggy: 574 (68.33%)
+performance: 0.66, 0.58, 0.61
+execution time: 10055.53 seconds
+
+
+--------------###----------------
+dataset: anysoftkeyboard number of instance: 3500_4000
+number of training sample: 500
+actual- buggy: 881 non-buggy: 840
+---------------------------------
+
+classification model: qsvc
+
+chunk size: 3500_4000
+predicted- buggy: 990 non-buggy: 731
+correct- total: 1080 (62.75%), buggy: 615 (69.81%) non-buggy: 465 (55.36%)
+performance: 0.62, 0.7, 0.66
+execution time: 10765.4 seconds
+
+
+--------------###----------------
+dataset: anysoftkeyboard number of instance: 4000_4500
+number of training sample: 500
+actual- buggy: 881 non-buggy: 840
+---------------------------------
+
+classification model: qsvc
+
+chunk size: 4000_4500
+predicted- buggy: 836 non-buggy: 885
+correct- total: 1086 (63.10%), buggy: 541 (61.41%) non-buggy: 545 (64.88%)
+performance: 0.65, 0.61, 0.63
+execution time: 10624.44 seconds
+
+
+--------------###----------------
+dataset: anysoftkeyboard number of instance: 4500_5000
+number of training sample: 500
+actual- buggy: 881 non-buggy: 840
+---------------------------------
+
+classification model: qsvc
+
+chunk size: 4500_5000
+predicted- buggy: 715 non-buggy: 1006
+correct- total: 1067 (62.00%), buggy: 471 (53.46%) non-buggy: 596 (70.95%)
+performance: 0.66, 0.53, 0.59
+execution time: 10588.46 seconds
+
+
+--------------###----------------
+dataset: anysoftkeyboard number of instance: 5000_5500
+number of training sample: 500
+actual- buggy: 881 non-buggy: 840
+---------------------------------
+
+classification model: qsvc
+
+chunk size: 5000_5500
+predicted- buggy: 742 non-buggy: 979
+correct- total: 1070 (62.17%), buggy: 486 (55.16%) non-buggy: 584 (69.52%)
+performance: 0.65, 0.55, 0.6
+execution time: 10690.63 seconds
+
+
+--------------###----------------
+dataset: anysoftkeyboard number of instance: 5500_6000
+number of training sample: 500
+actual- buggy: 881 non-buggy: 840
+---------------------------------
+
+classification model: qsvc
+
+chunk size: 5500_6000
+predicted- buggy: 922 non-buggy: 799
+correct- total: 1124 (65.31%), buggy: 603 (68.44%) non-buggy: 521 (62.02%)
+performance: 0.65, 0.68, 0.67
+execution time: 10233.44 seconds
+
+
+--------------###----------------
+dataset: anysoftkeyboard number of instance: 6000_6500
+number of training sample: 500
+actual- buggy: 881 non-buggy: 840
+---------------------------------
+
+classification model: qsvc
+
+chunk size: 6000_6500
+predicted- buggy: 855 non-buggy: 866
+correct- total: 1089 (63.28%), buggy: 552 (62.66%) non-buggy: 537 (63.93%)
+performance: 0.65, 0.63, 0.64
+execution time: 10364.5 seconds
+
+
+--------------###----------------

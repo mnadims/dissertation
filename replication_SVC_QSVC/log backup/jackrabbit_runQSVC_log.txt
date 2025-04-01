@@ -1,0 +1,11 @@
+chunk: 0-500
+chunk: 0-500
+2053.121 
+chunk: 500-556
+chunk: 0-500
+chunk: 0-500
+2053.121 
+chunk: 500-556
+17.618 
+jackrabbit chunk: 0-500
+chunk: 500-556

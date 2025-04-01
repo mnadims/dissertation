@@ -1,0 +1,1 @@
+file: reddit, dataset chunk: 0-500, training time: 519.51 seconds

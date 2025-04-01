@@ -1,0 +1,8 @@
+file: os, dataset chunk: 0-250, training time: 1011.39 seconds
+file: os, dataset chunk: 250-500, training time: 1005.47 seconds
+file: os, dataset chunk: 500-750, training time: 1006.39 seconds
+file: os, dataset chunk: 750-936, training time: 549.51 seconds
+os os: chunk: 0-250
+os: chunk: 250-500
+os: chunk: 500-750
+os: chunk: 750-936

@@ -1,0 +1,1 @@
+file: litecoin, dataset chunk: 0-442, training time: 1060.16 seconds

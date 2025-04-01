@@ -1,0 +1,2 @@
+file: androidsync, dataset chunk: 0-500, training time: 528.82 seconds
+file: androidsync, dataset chunk: 0-500, training time: 741.56 seconds

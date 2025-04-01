@@ -1,0 +1,1 @@
+file: facebook, dataset chunk: 0-500, training time: 534.94 seconds

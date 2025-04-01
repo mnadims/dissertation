@@ -1,0 +1,1 @@
+file: lucene, dataset chunk: 0-348, training time: 873.71 seconds

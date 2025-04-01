@@ -1,0 +1,1 @@
+file: kiwis, dataset chunk: 0-500, training time: 532.67 seconds

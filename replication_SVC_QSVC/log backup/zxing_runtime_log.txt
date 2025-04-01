@@ -1,0 +1,2 @@
+file: zxing, dataset chunk: 0-500, training time: 2253.74 seconds
+file: zxing, dataset chunk: 500-508, training time: 0.34 seconds

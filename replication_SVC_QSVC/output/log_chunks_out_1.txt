@@ -1,0 +1,56 @@
+Saving the model: saved_chunk_models/anysoftkeyboard_qsvc_0_500
+[[548 292]
+ [332 549]]
+(0.652794292508918, 0.623155505107832, 0.6376306620209059, None)
+execution time: 11754.86 seconds
+number of training sample: 500
+
+--------------###----------------
+Saving the model: saved_chunk_models/anysoftkeyboard_qsvc_500_1000
+[[584 256]
+ [347 534]]
+(0.6759493670886076, 0.6061293984108967, 0.6391382405745063, None)
+execution time: 9946.27 seconds
+number of training sample: 500
+
+--------------###----------------
+Saving the model: saved_chunk_models/anysoftkeyboard_qsvc_1000_1500
+[[449 391]
+ [248 633]]
+(0.6181640625, 0.7185017026106697, 0.6645669291338583, None)
+execution time: 9864.33 seconds
+number of training sample: 500
+
+--------------###----------------
+Saving the model: saved_chunk_models/anysoftkeyboard_qsvc_1500_2000
+[[504 336]
+ [322 559]]
+(0.6245810055865921, 0.6345062429057888, 0.6295045045045045, None)
+execution time: 10215.6 seconds
+number of training sample: 500
+
+--------------###----------------
+Saving the model: saved_chunk_models/anysoftkeyboard_qsvc_2000_2500
+[[623 217]
+ [354 527]]
+(0.7083333333333334, 0.5981838819523269, 0.6486153846153846, None)
+execution time: 10178.11 seconds
+number of training sample: 500
+
+--------------###----------------
+Saving the model: saved_chunk_models/anysoftkeyboard_qsvc_2500_3000
+[[506 334]
+ [267 614]]
+(0.6476793248945147, 0.6969353007945517, 0.6714051394204483, None)
+execution time: 9918.8 seconds
+number of training sample: 500
+
+--------------###----------------
+Saving the model: saved_chunk_models/anysoftkeyboard_qsvc_3000_3500
+[[574 266]
+ [372 509]]
+(0.6567741935483871, 0.5777525539160046, 0.6147342995169082, None)
+execution time: 10055.53 seconds
+number of training sample: 500
+
+--------------###----------------

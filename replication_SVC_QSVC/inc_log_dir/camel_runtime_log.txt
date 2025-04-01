@@ -1,0 +1,11 @@
+file: camel, dataset chunk: 0-250, training time: 1013.91 seconds
+file: camel, dataset chunk: 250-500, training time: 1000.5 seconds
+file: camel, dataset chunk: 500-750, training time: 1004.84 seconds
+file: camel, dataset chunk: 750-928, training time: 520.44 secondsfile: camel, dataset chunk: 0-50, training time: 39.43 seconds
+camel camel: chunk: 0-50
+file: camel, dataset chunk: 0-50, training time: 40.08 seconds
+camel camel: chunk: 0-50
+file: camel, dataset chunk: 0-50, training time: 13.85 seconds
+camel camel: chunk: 0-50
+file: camel, dataset chunk: 0-50, training time: 13.32 seconds
+camel camel: chunk: 0-50

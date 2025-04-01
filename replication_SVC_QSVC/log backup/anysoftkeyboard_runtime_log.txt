@@ -1,0 +1,2 @@
+file: anysoftkeyboard, dataset chunk: 0-500, training time: 531.86 seconds
+file: anysoftkeyboard, dataset chunk: 0-500, training time: 550.57 seconds

@@ -1,0 +1,2 @@
+file: jackrabbit, dataset chunk: 0-500, training time: 2050.8 seconds
+file: jackrabbit, dataset chunk: 500-556, training time: 16.92 seconds

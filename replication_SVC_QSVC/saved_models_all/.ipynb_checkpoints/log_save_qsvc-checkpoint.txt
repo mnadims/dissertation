@@ -1,0 +1,32 @@
+anysoftkeyboard
+(6883, 6) (6883,)
+(1721, 6) (1721,)
+Saving the model: saved_models_all/anysoftkeyboard-0-500.model
+anysoftkeyboard: training time for dataset size 500: 387.08 seconds
+anysoftkeyboard: testing time for dataset size 1721: 11018.95 seconds
+[0.6374201045903545, 0.652794292508918, 0.623155505107832, 0.6376306620209059, 0.6377682287443922, 0.2755290112618724]
+----------------------------------
+Saving the model: saved_models_all/anysoftkeyboard-500-1000.model
+anysoftkeyboard: training time for dataset size 500: 376.28 seconds
+anysoftkeyboard: testing time for dataset size 1721: 9595.97 seconds
+[0.6496223126089483, 0.6759493670886076, 0.6061293984108967, 0.6391382405745063, 0.6506837468244959, 0.3022982390805898]
+----------------------------------
+Saving the model: saved_models_all/anysoftkeyboard-1000-1500.model
+anysoftkeyboard: training time for dataset size 500: 378.28 seconds
+anysoftkeyboard: testing time for dataset size 1721: 9352.73 seconds
+[0.6287042417199302, 0.6181640625, 0.7185017026106697, 0.6645669291338583, 0.6265127560672397, 0.2576472684226842]
+----------------------------------
+Saving the model: saved_models_all/anysoftkeyboard-1500-2000.model
+anysoftkeyboard: training time for dataset size 500: 400.93 seconds
+anysoftkeyboard: testing time for dataset size 1721: 9468.67 seconds
+[0.6176641487507263, 0.6245810055865921, 0.6345062429057888, 0.6295045045045045, 0.6172531214528945, 0.23462833822453136]
+----------------------------------
+Saving the model: saved_models_all/anysoftkeyboard-2000-2500.model
+anysoftkeyboard: training time for dataset size 500: 379.3 
+
+anysoftkeyboard
+(6883, 6) (6883,)
+(1721, 6) (1721,)
+Saving the model: saved_models_all/anysoftkeyboard-0-1000.model
+anysoftkeyboard: training time for dataset size 1000: 3741.89 seconds
+----------------------------------
