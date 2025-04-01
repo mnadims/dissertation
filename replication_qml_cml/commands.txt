@@ -1,0 +1,6 @@
+pip install numpy
+pip install pandas
+pip install qiskit_algorithms
+pip install scikit-learn
+pip install qiskit_machine_learning
+pip install libsvm
